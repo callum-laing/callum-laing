@@ -2,8 +2,6 @@
 
 Front-End Developer | England, UK 🇬🇧 (originally from Scotland)
 
-![Static Badge](https://img.shields.io/badge/html)
-
 
 💻 Former admin & customer service pro leaping into front-end development. Retired American Football and Rugby Player, turned accidental DIY enthusiast.
 
