@@ -1,11 +1,6 @@
-# 👋 Hey there, I'm Callum Laing
+# <h1 align = center>👋 Hey, I'm Callum </h1>
 
-Front-End Developer | England, UK 🇬🇧 (originally from Scotland)
-
-
-
-
-
+<p align=center>Front-End Developer and Sports Enthusiast from England, UK</p>
 
 ## 🚀 Tech Stack
 
