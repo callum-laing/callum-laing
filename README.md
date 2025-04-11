@@ -6,16 +6,19 @@ Front-End Developer | England, UK 🇬🇧 (originally from Scotland)
 💻 Former admin & customer service pro leaping into front-end development. Retired American Football and Rugby Player, turned accidental DIY enthusiast.
 
 
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+
 ## 🚀 Tech Stack
 
 **Languages:**
-[![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   
 **Frameworks & Libraries:**
-[![My Skills](https://skillicons.dev/icons?i=react,vue)](https://skillicons.dev)
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
     
 **Tools of the Trade:**
-[![My Skills](https://skillicons.dev/icons?i=vscode,git,github,wsl2)](https://skillicons.dev)
+<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+
 
 
 ## 🔨 What I'm Working On
