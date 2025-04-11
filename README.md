@@ -1,3 +1,44 @@
-## Hi there 👋
+# 👋 Hey there, I'm Callum Laing
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react)](https://skillicons.dev)
+Front-End Developer | England, UK 🇬🇧 (originally from Scotland 🏴)
+
+---
+
+💻 Former admin & customer service pro leaping into front-end development. Retired American Football and Rugby Player, turned accidental DIY enthusiast.
+
+
+## 🚀 Tech Stack
+
+- **Languages:**
+- [![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
+  
+- **Frameworks & Libraries:**
+- [![My Skills](https://skillicons.dev/icons?i=react,vue)](https://skillicons.dev)
+    
+- **Tools of the Trade:**
+- [![My Skills](https://skillicons.dev/icons?i=vscode,git,github,wsl2)](https://skillicons.dev)
+
+
+## 🔨 What I'm Working On
+- [Pomodoro Clock](https://github.com/v11ncent/pomodoro)
+
+
+## 🧰 Strengths
+- Strong focus on user experience & responsive design  
+- Passionate about clean, maintainable code  
+- Team player with a background in sports and coaching
+
+## 🏋️ Outside of Code
+When I’m not pushing commits, I’m probably:
+- Pushing weights at the gym  
+- Working on a DIY project  
+- Watching various sports! 
+
+## 📫 Let's Connect
+
+- GitHub: [@callum-laing](https://github.com/callum-laing)
+- [LinkedIn](www.linkedin.com/in/callumlaing91)
+
+---
+
+> “Discipline equals freedom.” – Jocko Willink  
