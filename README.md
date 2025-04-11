@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Callum Laing
 
-Front-End Developer | England, UK 🇬🇧 (originally from Scotland 🏴)
+Front-End Developer | England, UK 🇬🇧 (originally from Scotland)
 
 ---
 
