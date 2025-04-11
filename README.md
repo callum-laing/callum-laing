@@ -3,6 +3,10 @@
 Front-End Developer | England, UK 🇬🇧 (originally from Scotland)
 
 
+
+
+
+
 ## 🚀 Tech Stack
 
 **Languages:**
@@ -16,8 +20,15 @@ Front-End Developer | England, UK 🇬🇧 (originally from Scotland)
 
 
 
+
+
+
 ## 🔨 What I'm Working On
 [Pomodoro Clock](https://github.com/v11ncent/pomodoro)
+
+
+
+
 
 
 ## 📫 Let's Connect
