@@ -1,8 +1,8 @@
 # 👋 Hey there, I'm Callum Laing
 
-Front-End Developer | England, UK 🇬🇧 (originally from Scotland)
+## Front-End Developer | England, UK 🇬🇧 (originally from Scotland)
 
----
+
 
 💻 Former admin & customer service pro leaping into front-end development. Retired American Football and Rugby Player, turned accidental DIY enthusiast.
 
