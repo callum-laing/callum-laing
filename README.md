@@ -19,7 +19,7 @@
 
 
 ## 🔨 What I'm Working On
-[Pomodoro Clock](https://github.com/callum-laing/pomodoro-clock)
+[Pomodoro Timer](https://github.com/callum-laing/pomodoro-timer)
 
 
 
