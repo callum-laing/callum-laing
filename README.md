@@ -19,7 +19,8 @@
 
 
 ## 🔨 What I'm Working On
-[Pomodoro Timer](https://github.com/callum-laing/pomodoro-timer)
+[daily push](https://github.com/callum-laing/daily-push)
+<p>A personal blog I'll be building with Nuxt3, PicoCSS and eventually (when I get around to Auth) Supabase.</p>
 
 
 
